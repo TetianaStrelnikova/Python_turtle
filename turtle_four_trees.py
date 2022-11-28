@@ -41,5 +41,3 @@ for t in turtles:
   t.fillcolor((r,g,b))
   branch(30,90)
 
-
-
